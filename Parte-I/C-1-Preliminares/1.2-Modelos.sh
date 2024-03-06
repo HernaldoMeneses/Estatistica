@@ -1,3 +1,5 @@
+#!/bin/bash
+:'
 Análise de Dados
     busca-se regularidade ou padrão (modelo) presentes nas observações.
 
@@ -17,3 +19,5 @@ Análise de Dados
              R mede a adequação do modelo na representação dos dados
 
              A análise Exploratório dos dados visa, essencialmente, informações para {I}
+
+'

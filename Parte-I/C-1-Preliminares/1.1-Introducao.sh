@@ -1,3 +1,5 @@
+#!/bin/bash
+:'
 Ciência
     Observação
         Inferência
@@ -14,3 +16,4 @@ Ciência
         Parte-1 - Análise Exploratória de Dados (AED)
         Parte-2 - Análise confirmatória de dados (ACD)
             Inferência Estatística
+'
